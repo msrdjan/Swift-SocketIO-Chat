@@ -1,0 +1,6 @@
+framework module Pods_Swift_SocketIO_Chat {
+  umbrella header "Pods-Swift-SocketIO-Chat-umbrella.h"
+
+  export *
+  module * { export * }
+}
