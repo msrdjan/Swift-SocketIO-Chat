@@ -6,5 +6,5 @@ target 'Swift-SocketIO-Chat' do
   use_frameworks!
 
   # Pods for Swift-SocketIO-Chat
-  pod 'Socket.IO-Client-Swift', '~> 8.3.3'
+  pod 'Socket.IO-Client-Swift', '~> 9.0.1'
 end
